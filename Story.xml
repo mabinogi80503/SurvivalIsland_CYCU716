@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="Big5"?>
+<Story>
+	<CH chapter="1" phase="1">
+    <before>
+      <day>3</day>
+      <event>0</event>
+    </before>
+    <after>
+      <part>
+        <background></background>
+        <img></img>
+        <img></img>
+        <dialog></dialog>
+      </part>
+    </after>
+	</CH>
+</Story>
